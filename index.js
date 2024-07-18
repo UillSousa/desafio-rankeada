@@ -6,7 +6,7 @@ let resultado = saldo(30, 5);
 let Rank = " ";
 
     if (resultado < 10)   
-        console.log("Ferro")    
+        Rank = "Ferro"    
     else if(resultado >=11 && resultado <20){
         Rank = "Bronze"
     }else if(resultado >=11 && resultado <20){
